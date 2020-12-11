@@ -1,0 +1,10 @@
+{
+    "devDependencies": {
+        "wmr": "^1.0.0"
+    },
+    "scripts": {
+        "start": "PORT=1234 wmr",
+        "build": "wmr build",
+        "serve": "wmr serve --http2"
+    }
+}
