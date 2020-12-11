@@ -5,5 +5,5 @@ interface Props {
 export const Test = ({ 
     message
 }:Props) => {
-    return <p>{message}</p>
+    return <p>Hello... {message}</p>
 }
